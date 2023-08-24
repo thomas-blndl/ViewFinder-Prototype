@@ -15,7 +15,7 @@ https://github.com/thomas-blndl/ViewFinder-Prototype/assets/59169143/b4bc7689-4d
 ## With more objects
 https://github.com/thomas-blndl/ViewFinder-Prototype/assets/59169143/78ecc99b-2d3e-4869-a9ba-7fa81230bcb8
 
-## With a lot of complexe objects
+## With a lot of complex objects
 https://github.com/thomas-blndl/ViewFinder-Prototype/assets/59169143/57c13f01-58e4-4c38-8e12-04fd820d1c05
 
 # Deleting objects:
