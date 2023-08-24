@@ -1,0 +1,3 @@
+[submodule "Assets/co.parabox.csg"]
+	path = Assets/co.parabox.csg
+	url = https://github.com/karl-/pb_CSG.git
